@@ -16,6 +16,9 @@
     "remark-html": "^15.0.1"
   },
   "devDependencies": {
-    "sass": "^1.55.0"
+    "@types/node": "^18.11.9",
+    "@types/react": "^18.0.24",
+    "sass": "^1.55.0",
+    "typescript": "^4.8.4"
   }
 }
